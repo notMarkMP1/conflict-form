@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "conflict form",
+  title: "inquiry form",
   description: "learning some basic backend stuff",
 };
 

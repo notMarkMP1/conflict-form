@@ -45,7 +45,7 @@ export default function LoginForm({ onLogin }: LoginFormProps) {
     <div className="min-h-screen flex items-center justify-center p-4" style={{backgroundColor: '#1a1f3a'}}>
       <div className="w-full max-w-sm">
         <div className="text-center mb-6">
-          <h1 className="text-2xl mb-2" style={{color: '#9bb5ff'}}>conflict tracker</h1>
+          <h1 className="text-2xl mb-2" style={{color: '#9bb5ff'}}>conflict form</h1>
           <p className="text-sm" style={{color: '#6b7db8'}}>login to continue</p>
         </div>
 
